@@ -1,0 +1,28 @@
+body {
+    background-color: cornflowerblue;
+}
+
+/*Tytuł główny*/
+h1 {
+    background-color: aqua;
+}
+
+/*Przykładowy tekst Tytułu głównego*/
+#p1 {
+    background-color: chartreuse;
+}
+
+/*Podtytuł*/
+h2 {
+    background-color: lightcyan;
+}
+
+/*Przykładowy tekst Podtytułu*/
+#p2 {
+    background-color: orchid;
+}
+
+/*Lista zawierająca 5 podpunktów*/
+ul {
+    background-color: coral;
+}

@@ -1,0 +1,24 @@
+/*Tytuł główny*/
+h1 {
+    color: red;
+}
+
+/*Przykładowy tekst Tytułu głównego*/
+#p1 {
+    color: blue;
+}
+
+/*Podtytuł*/
+h2 {
+    color: limegreen;
+}
+
+/*Przykładowy tekst Podtytułu*/
+#p2 {
+    color: white;
+}
+
+/*Lista zawierająca 5 podpunktów*/
+ul {
+    color: palegoldenrod;
+}
